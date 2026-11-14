@@ -1,6 +1,6 @@
 # CivicFix — Civic Issue Reporting & Repair Planner
 
-![CI](https://github.com/ayushpainuly1234-ui/civicfix/actions/workflows/ci.yml/badge.svg) ![Node.js](https://img.shields.io/badge/Node.js-20%2B-43853D?logo=node.js&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-Dijkstra%20%7C%20Knapsack%20DP%20%7C%20Held--Karp-blue)
+![CI](https://github.com/ujjwal-painuly/civicfix/actions/workflows/ci.yml/badge.svg) ![Node.js](https://img.shields.io/badge/Node.js-20%2B-43853D?logo=node.js&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-Dijkstra%20%7C%20Knapsack%20DP%20%7C%20Held--Karp-blue)
 
 > **Live demo:** [Open CivicFix](https://civicfix-7q99.onrender.com) · [API health check](https://civicfix-7q99.onrender.com/api/health). This is the canonical Render URL for this repository; older Render slugs may refer to a different/suspended service. The free service can cold-start after inactivity, so use the manual smoke-check workflow before a demo. CivicFix uses fictional seeded data and is a portfolio project, not an official city service.
 
