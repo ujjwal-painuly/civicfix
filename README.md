@@ -181,3 +181,9 @@ civicfix/
 - Built a civic-issue reporting app with citizen/admin role checks, MongoDB report persistence, PostgreSQL graph/planning data, and paginated report browsing.
 - Implemented Dijkstra shortest paths, 2-constraint 0/1 knapsack selection (repair budget + crew hours), and Held–Karp route ordering for small repair sets.
 - Added unit/property tests plus GitHub Actions integration tests against real PostgreSQL and MongoDB service containers.
+
+---
+
+## Maintainer
+
+**Ujjwal Painuly** · [GitHub](https://github.com/ujjwal-painuly) · [LinkedIn](https://www.linkedin.com/in/code-with-ujjwal-83828a352/) · [YouTube — Code With Ujjwal](https://www.youtube.com/@Ujjwalpainuly09)
